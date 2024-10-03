@@ -1,11 +1,8 @@
 [![MasterHead](https://i.imgur.com/zt5nuVU.gif)](https://google.com.br)
 <h1 align="center">Hi 👋, I'm Thiago Ribeiro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/0Np9Uwb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoribeiro79&label=Profile%20views&color=0e75b6&style=flat" alt="thiagoribeiro79" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiagoribeiro79" alt="thiagoribeiro79" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/czsbrasil" target="blank"><img src="https://img.shields.io/twitter/follow/czsbrasil?logo=twitter&style=for-the-badge" alt="czsbrasil" /></a> </p>
 
