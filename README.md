@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/zt5nuVU.gif)](https://google.com.br)
+[![MasterHead](https://i.imgur.com/WvZ6VWl.gif)](https://czsbrasil.com.br)
 <h1 align="center">Hi 👋, I'm Thiago Ribeiro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/0Np9Uwb.gif">
