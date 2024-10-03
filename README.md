@@ -1,6 +1,7 @@
 [![MasterHead](https://i.imgur.com/zt5nuVU.gif)](https://google.com.br)
 <h1 align="center">Hi 👋, I'm Thiago Ribeiro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/0Np9Uwb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoribeiro79&label=Profile%20views&color=0e75b6&style=flat" alt="thiagoribeiro79" /> </p>
 
