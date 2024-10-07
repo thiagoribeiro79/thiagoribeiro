@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/0Np9Uwb.gif">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=true)](https://github.com/thiagoribeiro79)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiagoribeiro79&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <p align="left"> <a href="https://twitter.com/czsbrasil" target="blank"><img src="https://img.shields.io/twitter/follow/czsbrasil?logo=twitter&style=for-the-badge" alt="czsbrasil" /></a> </p>
 
